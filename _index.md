@@ -1,6 +1,6 @@
 ---
 title: 半导体器件
-type: series
+series: true
 cascade:
   params:
     math: true
